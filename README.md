@@ -37,13 +37,13 @@ KFZ-Versicherung/
 
 ### Schritte
 
-
+```bash
 cd KFZ-Versicherung
 mkdir build && cd build
 cmake ..
 make
 ./KFZVersicherung  # Oder der Name der generierten Binary
-
+```
 
 ## 👨‍🎓 Über mich
 
